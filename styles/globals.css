@@ -2,6 +2,11 @@ p {
     margin-bottom: 0;
 }
 
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
 .navbar-dark .navbar-nav .nav-link.active {
     color: white;
 }
@@ -17,7 +22,6 @@ p {
 .pool-item {
     padding: 20px;
     border-radius: 14px;
-    height: 100%;
 }
 
 .inventory-box {
@@ -27,5 +31,4 @@ p {
 .inventory-item {
     padding: 20px;
     border-radius: 14px;
-    height: 100%;
 }

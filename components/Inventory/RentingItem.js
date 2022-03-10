@@ -3,8 +3,7 @@ import { Button } from 'react-bootstrap';
 
 export default function RentingItem() {
     return (
-        <div className="inventory-item bg-light">
-            <h4 className="inventory-item-title">Renting</h4>
+        <div className="inventory-item bg-light mb-4">
             <div className="inventory-item-content">
                 <div className="inventory-item-row d-flex align-items-center justify-content-between mb-2">
                     <div className="inventory-desc-title">
